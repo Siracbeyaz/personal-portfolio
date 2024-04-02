@@ -1,0 +1,35 @@
+
+.navimg{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+
+.navbutton{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.navtext{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    color: black;
+    gap: 10px;
+}
+
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+}
+
+div {
+    padding-right: 20px; /* Div içindeki p etiketleri arasındaki sağ yatay boşluğu ayarlar */
+}

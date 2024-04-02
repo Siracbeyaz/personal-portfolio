@@ -1,0 +1,19 @@
+.Mainabout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 40px;
+    align-items: center;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.about{
+    font-size: 21.33px;
+}
+
+.lorem{
+    font-weight: 24px;
+}

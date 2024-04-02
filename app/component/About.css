@@ -3,6 +3,8 @@
     grid-template-columns: 1fr 1fr;
     margin-top: 40px;
     align-items: center;
+    margin-left: 100px;
+    margin-right: 40px;
 }
 
 h2{

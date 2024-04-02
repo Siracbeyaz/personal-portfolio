@@ -9,10 +9,7 @@
 .navbutton{
     display: flex;
     justify-content: end;
-    margin-bottom: 20px;
-    margin-right: 50px;
-    margin-top: 20px;
-    gap: 20px;
+
 }
 
 .navtext{

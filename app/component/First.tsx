@@ -8,7 +8,7 @@ export default function First() {
             <div className="maindiv">
                 <div className="textdiv">
                     <p className="headline">Hey I'am Jhon </p>
-                    <h2>
+                    <h2 className="h2tag">
                         I create <span>product design</span> and brand experience
                     </h2>
                     <p className="text">
